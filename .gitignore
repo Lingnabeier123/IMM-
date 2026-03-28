@@ -7,9 +7,3 @@ __pycache__/
 dist/
 build/
 *.log
-k_prototype_data/
-k_prototype_data_cleaned/
-kmodes_data/
-kmodes_imm/
-output_kmodes/
-output_kprototype/

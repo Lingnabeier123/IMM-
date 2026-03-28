@@ -1,0 +1,15 @@
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+.idea/
+*.egg-info/
+dist/
+build/
+*.log
+k_prototype_data/
+k_prototype_data_cleaned/
+kmodes_data/
+kmodes_imm/
+output_kmodes/
+output_kprototype/
